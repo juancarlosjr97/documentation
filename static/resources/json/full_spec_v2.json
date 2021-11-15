@@ -24912,13 +24912,15 @@
                       "enum": [
                         "threshold",
                         "new_value",
-                        "anomaly_detection"
+                        "anomaly_detection",
+                        "no_data"
                       ],
                       "type": "string",
                       "x-enum-varnames": [
                         "THRESHOLD",
                         "NEW_VALUE",
-                        "ANOMALY_DETECTION"
+                        "ANOMALY_DETECTION",
+                        "NO_DATA"
                       ]
                     },
                     "evaluationWindow": {
@@ -25378,13 +25380,15 @@
                 "enum": [
                   "threshold",
                   "new_value",
-                  "anomaly_detection"
+                  "anomaly_detection",
+                  "no_data"
                 ],
                 "type": "string",
                 "x-enum-varnames": [
                   "THRESHOLD",
                   "NEW_VALUE",
-                  "ANOMALY_DETECTION"
+                  "ANOMALY_DETECTION",
+                  "NO_DATA"
                 ]
               },
               "evaluationWindow": {
@@ -25635,13 +25639,15 @@
         "enum": [
           "threshold",
           "new_value",
-          "anomaly_detection"
+          "anomaly_detection",
+          "no_data"
         ],
         "type": "string",
         "x-enum-varnames": [
           "THRESHOLD",
           "NEW_VALUE",
-          "ANOMALY_DETECTION"
+          "ANOMALY_DETECTION",
+          "NO_DATA"
         ]
       },
       "SecurityMonitoringRuleEvaluationWindow": {
@@ -25817,13 +25823,15 @@
             "enum": [
               "threshold",
               "new_value",
-              "anomaly_detection"
+              "anomaly_detection",
+              "no_data"
             ],
             "type": "string",
             "x-enum-varnames": [
               "THRESHOLD",
               "NEW_VALUE",
-              "ANOMALY_DETECTION"
+              "ANOMALY_DETECTION",
+              "NO_DATA"
             ]
           },
           "evaluationWindow": {
@@ -26234,13 +26242,15 @@
                 "enum": [
                   "threshold",
                   "new_value",
-                  "anomaly_detection"
+                  "anomaly_detection",
+                  "no_data"
                 ],
                 "type": "string",
                 "x-enum-varnames": [
                   "THRESHOLD",
                   "NEW_VALUE",
-                  "ANOMALY_DETECTION"
+                  "ANOMALY_DETECTION",
+                  "NO_DATA"
                 ]
               },
               "evaluationWindow": {
@@ -26628,13 +26638,15 @@
                 "enum": [
                   "threshold",
                   "new_value",
-                  "anomaly_detection"
+                  "anomaly_detection",
+                  "no_data"
                 ],
                 "type": "string",
                 "x-enum-varnames": [
                   "THRESHOLD",
                   "NEW_VALUE",
-                  "ANOMALY_DETECTION"
+                  "ANOMALY_DETECTION",
+                  "NO_DATA"
                 ]
               },
               "evaluationWindow": {
@@ -56462,13 +56474,15 @@
                                 "enum": [
                                   "threshold",
                                   "new_value",
-                                  "anomaly_detection"
+                                  "anomaly_detection",
+                                  "no_data"
                                 ],
                                 "type": "string",
                                 "x-enum-varnames": [
                                   "THRESHOLD",
                                   "NEW_VALUE",
-                                  "ANOMALY_DETECTION"
+                                  "ANOMALY_DETECTION",
+                                  "NO_DATA"
                                 ]
                               },
                               "evaluationWindow": {
@@ -56899,13 +56913,15 @@
                         "enum": [
                           "threshold",
                           "new_value",
-                          "anomaly_detection"
+                          "anomaly_detection",
+                          "no_data"
                         ],
                         "type": "string",
                         "x-enum-varnames": [
                           "THRESHOLD",
                           "NEW_VALUE",
-                          "ANOMALY_DETECTION"
+                          "ANOMALY_DETECTION",
+                          "NO_DATA"
                         ]
                       },
                       "evaluationWindow": {
@@ -57279,13 +57295,15 @@
                           "enum": [
                             "threshold",
                             "new_value",
-                            "anomaly_detection"
+                            "anomaly_detection",
+                            "no_data"
                           ],
                           "type": "string",
                           "x-enum-varnames": [
                             "THRESHOLD",
                             "NEW_VALUE",
-                            "ANOMALY_DETECTION"
+                            "ANOMALY_DETECTION",
+                            "NO_DATA"
                           ]
                         },
                         "evaluationWindow": {
@@ -57850,13 +57868,15 @@
                           "enum": [
                             "threshold",
                             "new_value",
-                            "anomaly_detection"
+                            "anomaly_detection",
+                            "no_data"
                           ],
                           "type": "string",
                           "x-enum-varnames": [
                             "THRESHOLD",
                             "NEW_VALUE",
-                            "ANOMALY_DETECTION"
+                            "ANOMALY_DETECTION",
+                            "NO_DATA"
                           ]
                         },
                         "evaluationWindow": {
@@ -58264,13 +58284,15 @@
                         "enum": [
                           "threshold",
                           "new_value",
-                          "anomaly_detection"
+                          "anomaly_detection",
+                          "no_data"
                         ],
                         "type": "string",
                         "x-enum-varnames": [
                           "THRESHOLD",
                           "NEW_VALUE",
-                          "ANOMALY_DETECTION"
+                          "ANOMALY_DETECTION",
+                          "NO_DATA"
                         ]
                       },
                       "evaluationWindow": {
@@ -58622,13 +58644,15 @@
                           "enum": [
                             "threshold",
                             "new_value",
-                            "anomaly_detection"
+                            "anomaly_detection",
+                            "no_data"
                           ],
                           "type": "string",
                           "x-enum-varnames": [
                             "THRESHOLD",
                             "NEW_VALUE",
-                            "ANOMALY_DETECTION"
+                            "ANOMALY_DETECTION",
+                            "NO_DATA"
                           ]
                         },
                         "evaluationWindow": {
